@@ -1,0 +1,8 @@
+# ignore the following files
+.history
+.vscode
+**/__pycache__
+data/**
+logs/**
+models/**
+results/**
